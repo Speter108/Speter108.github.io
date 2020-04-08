@@ -1,0 +1,135 @@
+body {
+    background-image: url(./picture/29.jpg);
+    margin: 0;
+    font-family:  'Josefin Sans' italic solid;
+    padding: 0;
+    color: white;
+  
+}
+
+.header {
+    width: 100%;
+    height: 100px;
+    display: flex;
+    border-bottom: 1px solid white;
+    margin: 0;
+    padding: 0;
+}
+
+
+.header1 {
+    font-size: 50px;
+    width: 100%;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+.text {
+   
+    margin-left: 50px;
+    padding-top: 30px;
+}
+
+.text1 {
+    background-color: black;
+    min-height: 300px;
+    margin-top: 0;
+    margin-left: 50px;
+    padding: 0px;
+    display: flex;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 0;
+}
+
+.m {
+    margin-left: 30px;
+}
+
+.f {
+    margin-bottom: 20px;
+    text-decoration: underline;
+}
+
+.main {
+    margin-top: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    display: flex;
+    background-color: black;
+    padding: 20px;
+}
+
+.meretez {
+    border: 1px solid white;
+    margin: 1px;
+    width: 200px;
+    height:200px;
+ }
+
+ .skill{
+    border: 1px solid white;
+   font-size: 12px;
+    width: 200px;
+    height: 15px;
+   padding: 0;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    text-align: left;
+ }
+
+.name {
+ 
+    font-size: 30px;
+    width: 200px;
+    height: 30px;
+    margin: 1px; 
+    padding-top: 5px;
+    text-align: center;  
+}
+.m {
+    text-align: center;
+}
+
+.foter{
+    background-color: black;
+    margin-top: 30px;
+ 
+    border-top: 2px solid white;
+    padding: 0px;
+    height: 60px;
+    display: flex;
+    
+}
+
+.fo{
+    width: 200px;
+    height: 30px;
+    margin: 50px;
+    padding: 0;
+    text-decoration: none;
+    
+}
+
+.fo:hover {
+    color: red;
+   
+  }
+
+
+
+  .fo {
+    background-color: black;
+    border: 1px solid white;
+    color: white;
+    font-size: 12px;
+    width: 100px;
+    height: 30px;
+    margin: 15px;
+    
+    align-items: center;
+}
+
