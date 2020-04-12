@@ -11,7 +11,7 @@ body {
 }
 
 menu {
-    background-color: black;
+    background-color: #140901;
     min-height: 600px;
     margin: auto;
     padding: 15px;
@@ -90,7 +90,7 @@ h2 {
 
 .ketto {
     margin-top: 50px;
-    background-color: black;
+    background-color: #140901;
     width: 400px;
     height: 440px;
     padding: 60px;
@@ -103,7 +103,7 @@ h2 {
   }
 
 .fo {
-    background-color: black;
+    background-color: #140901;
     border: 1px solid lightgray;
     color: lightgray;
     font-size: 12px;
@@ -118,7 +118,7 @@ h2 {
     background-position: -50px -20px;
 
     margin-top: 50px;
-    background-color: black;
+    background-color: #140901;
     width: 400px;
     height: 450px;
     padding: 60px;
@@ -127,7 +127,7 @@ h2 {
 
 .negy {
     margin-top: 50px;
-    background-color: black;
+    background-color: #140901;
     width: 400px;
     height: 440px;
     padding: 60px;
